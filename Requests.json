@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "UserId": 1360187459,
+    "Date": "2022-11-30T22:04:51.1313934+00:00",
+    "StartDate": "2022-10-10T00:00:00",
+    "EndDate": "2022-10-10T00:00:00",
+    "Description": "Study",
+    "Approved": null
+  },
+  {
+    "Id": 2,
+    "userId": 2023493778,
+    "Date": "2022-11-30T22:26:30.3950028+00:00",
+    "StartDate": "2022-02-08T00:00:00",
+    "EndDate": "2022-02-08T00:00:00",
+    "Description": "Training",
+    "Approved": false
+  },
+  {
+    "Id": 3,
+    "UserId": 959504279,
+    "Date": "2022-11-30T22:32:35.8630894+00:00",
+    "StartDate": "2022-02-08T00:00:00",
+    "EndDate": "2022-02-08T00:00:00",
+    "Description": "Personal Leave",
+    "Approved": false
+  },
+  {
+    "Id": 4,
+    "UserId": 444501909,
+    "Date": "2022-11-30T22:43:40.7147463+00:00",
+    "StartDate": "0001-01-01T00:00:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "Description": "Study",
+    "Approved": false
+  }
+]

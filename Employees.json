@@ -1,0 +1,28 @@
+{ 
+	"Employees": [
+	{
+	  "id": 1,
+	  "firstName": "Kelly",
+	  "lastName": "Walt",
+	  "email": "waltkelly@mymail.com",
+	  "description": "Study Leave",
+	  "approved": false
+    },
+	{
+	  "id": 2,
+	  "firstName": "Dennis",
+	  "lastName": "TheMenace",
+	  "email": "themenace@mymail.com",
+	  "description": "Vacation",
+	  "approved": false
+    },
+	{
+	  "id": 3,
+	  "firstName": "Tina",
+	  "lastName": "Ballerina",
+	  "email": "balletislife@mymail.com",
+	  "description": "Personal Day",
+	  "approved": false
+    }
+ ]
+}
